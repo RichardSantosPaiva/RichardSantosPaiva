@@ -6,6 +6,8 @@ no mercado de TI na área de desenvolvimento Front-end e Back-end, detenho conhe
 além de GIT, C# .NET CORE, SQL Server. Estou apto para aprender novas tecnologias e muito mais!
 
 
+
+
 ##  Tecnologias 💻
 
 Algumas tecologia estou aprimorando conhecimento 🧠🧑‍💻
