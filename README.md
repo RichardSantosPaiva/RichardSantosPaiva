@@ -6,12 +6,14 @@ no mercado de TI na área de desenvolvimento Front-end e Back-end, detenho conhe
 além de GIT, C# .NET CORE, SQL Server. Estou apto para aprender novas tecnologias e muito mais!
 
 
-##  tecnologias 
+##  Tecnologias 💻
 
-Algumas tecologia estou aprimorando conhecimentos
+Algumas tecologia estou aprimorando conhecimento 🧠🧑‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,php,react,cs	)](https://skillicons.dev)
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSantosPaiva&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Paiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSantosPaiva&theme=great-gatsby&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSantosPaiva&layout=donut&theme=great-gatsby&show)](https://github.com/anuraghazra/github-readme-stats)
 
